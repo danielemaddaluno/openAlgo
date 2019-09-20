@@ -10,6 +10,7 @@ ChiKou     (Delayed)    = Last Close shifted 26 Periods backward
 Formation of Kumo -
 SenKou A   (Preceding)  = (TenKan + KiJun)/2 shifted 26 Periods forward
 SenKou B   (Preceding)  = (Highest High of 52 Periods + Lowest Low of 52 Periods)/2 shifted 26 Periods forward
+}
 
 // Declare Inputs
 inputs:
@@ -150,19 +151,19 @@ Why Isn't Everyone Making Money?
 Although it was created back in 1968, this charting technique did not gain international attention until the 1990s. 
 It has since been applied by traders worldwide. Despite its success, the Ichimoku chart still has some drawbacks.
 
-Empirical decision making – As with most technical analysis, empirical decision making is required 
+Empirical decision making â€“ As with most technical analysis, empirical decision making is required 
 when determining the time period to use. Keep in mind that the time periods are the only thing 
 making this technique different from a moving average analysis, so it is critical to fine-tune (optimize).
 
 
-24-hour markets – Markets which operate 24 hours a day, like the currency market, 
+24-hour markets â€“ Markets which operate 24 hours a day, like the currency market, 
 are without an actual set open and close price. To get around the problem, traders often 
 make the calculations in real-time or use the open and close times that are closely associated 
 with the currency pair being traded. For example, for the EUR/USD, it would be wise to use the New York open 
 and close since that is when the majority of trading occurs.
 
 
-Occasional short time between trades – There will be times when the buy and sell signals occur 
+Occasional short time between trades â€“ There will be times when the buy and sell signals occur 
 within close proximity. In a world without commissions or bid/ask spreads, this would not be a problem; 
 however, quick trades like this can cause commissions to eat into your profits.
 
